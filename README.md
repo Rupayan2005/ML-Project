@@ -25,6 +25,14 @@ A collection practical machine learning and AI projects showcasing different app
 - Personalized email creation using LLM
 - Vector database for intelligent content matching
 
+### 4. 🫁 AI-Powered Pneumonia Detection System
+**Tech Stack**: Python, TensorFlow, Keras, Streamlit, PIL
+
+- Analyzes chest X-ray images to detect pneumonia using deep learning
+- Uses Convolutional Neural Networks (CNN) for medical image classification
+- Features: Image upload, AI diagnosis, confidence scoring, medical disclaimer
+- Modern web interface with real-time processing and professional UI
+
 ## 🚀 Quick Start
 
 1. **Clone the repository**
@@ -40,6 +48,8 @@ A collection practical machine learning and AI projects showcasing different app
    cd Home_prediction
    # or
    cd cold email generator
+   # or
+   cd Pneumonia Detector
    ```
 
 
@@ -50,6 +60,7 @@ A collection practical machine learning and AI projects showcasing different app
 | Digit Recognition | SVM/Random Forest | Scikit-learn Digits | Matplotlib/Jupyter |
 | Price Prediction | Linear Regression | Real Estate Data | Web App |
 | Email Generator | LLM (Groq) | Job Postings | Streamlit |
+| Pneumonia Detector | Keras | Pneumonia Classifier | Streamlit |
 
 ## 🛠️ Prerequisites
 
@@ -76,7 +87,7 @@ Each project folder contains:
 - Scikit-learn for machine learning algorithms
 - Streamlit for web interfaces
 - Groq for LLM API
-- Open-source community for datasets and tools
+- TensorFlow for the machine learning framework
 
 ---
 
